@@ -1,7 +1,5 @@
 /* Data Structures and Algorithms Using C
- * Chapter 6 Linked Lists
- * 6.3 Circular Linked List
- * Example 2
+ * Linked List
  * Write a program to create a circular linked list. Perform insertion and deletion at the beginning and end of the list.
  */
 #include<stdio.h>
